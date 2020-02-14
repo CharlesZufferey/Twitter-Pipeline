@@ -1,0 +1,37 @@
+version: '3'
+services:
+  tweet_collector:
+    build:
+      context: ./tweet_collector
+      dockerfile: Dockerfile.txt
+    volumes:
+    - ./tweet_collector/:/add
+    links:
+    - mongodb
+  etl_job:
+    build:
+      context: ./etl_job
+      dockerfile: Dockerfile.txt
+    volumes:
+    - ./etl_job/:/add
+    links:
+    - mongodb
+  flask:
+    build:
+      context: ./flask
+      dockerfile: Dockerfile.txt
+    ports:
+      - "5000:5000"
+    volumes:
+    - ./flask/:/add
+    links:
+    - mongodb
+  mongodb:
+    image: mongo
+    ports: [8081:8081]
+  metabase:
+    image: metabase/metabase
+    ports: [3000:3000]
+  #postgres:
+  #  image: postgres
+  #  ports: [5000:5432]

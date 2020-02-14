@@ -1,0 +1,30 @@
+version: '3'
+services:
+  tweet_collector:
+    build:
+      context: ./tweet_collector
+      dockerfile: Dockerfile.txt
+    volumes:
+    - ./tweet_collector/:/add
+    links:
+    - mongodb
+  mongoadd:
+    build:
+      context: ./Mongoadd
+      dockerfile: Dockerfile.txt
+    volumes:
+    - ./Mongoadd/:/add
+    links:
+    - mongodb
+  mongodb:
+    image: mongo
+    ports: [27019:27017]
+  spacyapi:
+    image: jgontrum/spacyapi
+    ports:
+      - "127.0.0.1:8080:80"
+    restart: always
+
+  #postgres:
+  #  image: postgres
+  #  ports: [5000:5432]

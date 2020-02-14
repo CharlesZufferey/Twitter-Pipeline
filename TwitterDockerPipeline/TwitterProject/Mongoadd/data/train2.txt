@@ -1,0 +1,533 @@
+PhraseId	SentenceId	Phrase	Sentiment
+1	1	A series of escapades demonstrating the adage that what is good for the goose is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story .	1
+2	1	A series of escapades demonstrating the adage that what is good for the goose	2
+3	1	A series	2
+4	1	A	2
+5	1	series	2
+6	1	of escapades demonstrating the adage that what is good for the goose	2
+7	1	of	2
+8	1	escapades demonstrating the adage that what is good for the goose	2
+9	1	escapades	2
+10	1	demonstrating the adage that what is good for the goose	2
+11	1	demonstrating the adage	2
+12	1	demonstrating	2
+13	1	the adage	2
+14	1	the	2
+15	1	adage	2
+16	1	that what is good for the goose	2
+17	1	that	2
+18	1	what is good for the goose	2
+19	1	what	2
+20	1	is good for the goose	2
+21	1	is	2
+22	1	good for the goose	3
+23	1	good	3
+24	1	for the goose	2
+25	1	for	2
+26	1	the goose	2
+27	1	goose	2
+28	1	is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story .	2
+29	1	is also good for the gander , some of which occasionally amuses but none of which amounts to much of a story	2
+30	1	is also	2
+31	1	also	2
+32	1	good for the gander , some of which occasionally amuses but none of which amounts to much of a story	2
+33	1	for the gander , some of which occasionally amuses but none of which amounts to much of a story	2
+34	1	the gander , some of which occasionally amuses but none of which amounts to much of a story	1
+35	1	the gander ,	2
+36	1	the gander	2
+37	1	gander	2
+38	1	,	2
+39	1	some of which occasionally amuses but none of which amounts to much of a story	2
+40	1	some of which	2
+41	1	some	2
+42	1	of which	2
+43	1	which	2
+44	1	occasionally amuses but none of which amounts to much of a story	2
+45	1	occasionally	2
+46	1	amuses but none of which amounts to much of a story	2
+47	1	amuses	3
+48	1	but none of which amounts to much of a story	1
+49	1	but	2
+50	1	none of which amounts to much of a story	1
+51	1	none	2
+52	1	of which amounts to much of a story	2
+53	1	which amounts to much of a story	2
+54	1	amounts to much of a story	2
+55	1	amounts	2
+56	1	to much of a story	2
+57	1	to	2
+58	1	much of a story	2
+59	1	much	2
+60	1	of a story	2
+61	1	a story	2
+62	1	story	2
+63	1	.	2
+64	2	This quiet , introspective and entertaining independent is worth seeking .	4
+65	2	This quiet , introspective and entertaining independent	3
+66	2	This	2
+67	2	quiet , introspective and entertaining independent	4
+68	2	quiet , introspective and entertaining	3
+69	2	quiet	2
+70	2	, introspective and entertaining	3
+71	2	introspective and entertaining	3
+72	2	introspective and	3
+73	2	introspective	2
+74	2	and	2
+75	2	entertaining	4
+76	2	independent	2
+77	2	is worth seeking .	3
+78	2	is worth seeking	4
+79	2	is worth	2
+80	2	worth	2
+81	2	seeking	2
+82	3	Even fans of Ismail Merchant 's work , I suspect , would have a hard time sitting through this one .	1
+83	3	Even fans of Ismail Merchant 's work	2
+84	3	Even fans	2
+85	3	Even	2
+86	3	fans	3
+87	3	of Ismail Merchant 's work	2
+88	3	Ismail Merchant 's work	2
+89	3	Ismail Merchant 's	2
+90	3	Ismail	2
+91	3	Merchant 's	2
+92	3	Merchant	2
+93	3	's	2
+94	3	work	2
+95	3	, I suspect , would have a hard time sitting through this one .	1
+96	3	, I suspect ,	2
+97	3	I suspect ,	2
+98	3	I suspect	2
+99	3	I	2
+100	3	suspect	2
+101	3	would have a hard time sitting through this one .	1
+102	3	would have a hard time sitting through this one	0
+103	3	would	2
+104	3	have a hard time sitting through this one	0
+105	3	have	2
+106	3	a hard time sitting through this one	1
+107	3	a hard time	1
+108	3	hard time	1
+109	3	hard	2
+110	3	time	2
+111	3	sitting through this one	1
+112	3	sitting	2
+113	3	through this one	2
+114	3	through	2
+115	3	this one	2
+116	3	one	2
+117	4	A positively thrilling combination of ethnography and all the intrigue , betrayal , deceit and murder of a Shakespearean tragedy or a juicy soap opera .	3
+118	4	A positively thrilling combination of ethnography and all the intrigue , betrayal , deceit and murder of a Shakespearean tragedy or a juicy soap opera	4
+119	4	A positively thrilling combination of ethnography and all the intrigue , betrayal , deceit and murder	4
+120	4	A positively thrilling combination	3
+121	4	positively thrilling combination	3
+122	4	positively	3
+123	4	thrilling combination	3
+124	4	thrilling	4
+125	4	combination	2
+126	4	of ethnography and all the intrigue , betrayal , deceit and murder	2
+127	4	ethnography and all the intrigue , betrayal , deceit and murder	2
+128	4	ethnography and	2
+129	4	ethnography	2
+130	4	all the intrigue , betrayal , deceit and murder	2
+131	4	all	2
+132	4	the intrigue , betrayal , deceit and murder	1
+133	4	intrigue , betrayal , deceit and murder	2
+134	4	intrigue	3
+135	4	, betrayal , deceit and murder	2
+136	4	betrayal , deceit and murder	1
+137	4	betrayal	2
+138	4	, deceit and murder	1
+139	4	deceit and murder	1
+140	4	deceit and	2
+141	4	deceit	1
+142	4	murder	1
+143	4	of a Shakespearean tragedy or a juicy soap opera	2
+144	4	a Shakespearean tragedy or a juicy soap opera	2
+145	4	a Shakespearean tragedy or	2
+146	4	a Shakespearean tragedy	1
+147	4	Shakespearean tragedy	2
+148	4	Shakespearean	2
+149	4	tragedy	1
+150	4	or	2
+151	4	a juicy soap opera	3
+152	4	juicy soap opera	3
+153	4	juicy	3
+154	4	soap opera	1
+155	4	soap	2
+156	4	opera	2
+157	5	Aggressive self-glorification and a manipulative whitewash .	1
+158	5	Aggressive self-glorification and a manipulative whitewash	0
+159	5	Aggressive	2
+160	5	self-glorification and a manipulative whitewash	0
+161	5	self-glorification and	1
+162	5	self-glorification	2
+163	5	a manipulative whitewash	1
+164	5	manipulative whitewash	1
+165	5	manipulative	2
+166	5	whitewash	2
+167	6	A comedy-drama of nearly epic proportions rooted in a sincere performance by the title character undergoing midlife crisis .	4
+168	6	A comedy-drama of nearly epic proportions	3
+169	6	A comedy-drama	2
+170	6	comedy-drama	2
+171	6	of nearly epic proportions	3
+172	6	nearly epic proportions	2
+173	6	nearly epic	4
+174	6	nearly	2
+175	6	epic	3
+176	6	proportions	2
+177	6	rooted in a sincere performance by the title character undergoing midlife crisis .	4
+178	6	rooted in a sincere performance by the title character undergoing midlife crisis	3
+179	6	rooted in a sincere performance	3
+180	6	rooted	3
+181	6	in a sincere performance	4
+182	6	in	2
+183	6	a sincere performance	4
+184	6	sincere performance	4
+185	6	sincere	3
+186	6	performance	2
+187	6	by the title character undergoing midlife crisis	2
+188	6	by	2
+189	6	the title character undergoing midlife crisis	2
+190	6	the title character	2
+191	6	title character	2
+192	6	title	2
+193	6	character	2
+194	6	undergoing midlife crisis	2
+195	6	undergoing	2
+196	6	midlife crisis	1
+197	6	midlife	2
+198	6	crisis	2
+199	7	Narratively , Trouble Every Day is a plodding mess .	1
+200	7	Narratively	2
+201	7	, Trouble Every Day is a plodding mess .	1
+202	7	Trouble Every Day is a plodding mess .	0
+203	7	Trouble Every Day	2
+204	7	Trouble	1
+205	7	Every Day	2
+206	7	Every	2
+207	7	Day	2
+208	7	is a plodding mess .	1
+209	7	is a plodding mess	0
+210	7	a plodding mess	1
+211	7	plodding mess	0
+212	7	plodding	1
+213	7	mess	1
+214	8	The Importance of Being Earnest , so thick with wit it plays like a reading from Bartlett 's Familiar Quotations	3
+215	8	The Importance	2
+216	8	Importance	3
+217	8	of Being Earnest , so thick with wit it plays like a reading from Bartlett 's Familiar Quotations	2
+218	8	Being Earnest , so thick with wit it plays like a reading from Bartlett 's Familiar Quotations	3
+219	8	Being	2
+220	8	Earnest , so thick with wit it plays like a reading from Bartlett 's Familiar Quotations	2
+221	8	Earnest ,	3
+222	8	Earnest	3
+223	8	so thick with wit it plays like a reading from Bartlett 's Familiar Quotations	2
+224	8	so	2
+225	8	thick with wit it plays like a reading from Bartlett 's Familiar Quotations	3
+226	8	thick	2
+227	8	with wit it plays like a reading from Bartlett 's Familiar Quotations	3
+228	8	with	2
+229	8	wit it plays like a reading from Bartlett 's Familiar Quotations	2
+230	8	wit	2
+231	8	it plays like a reading from Bartlett 's Familiar Quotations	2
+232	8	it	2
+233	8	plays like a reading from Bartlett 's Familiar Quotations	3
+234	8	plays	2
+235	8	like a reading from Bartlett 's Familiar Quotations	2
+236	8	like	2
+237	8	a reading from Bartlett 's Familiar Quotations	2
+238	8	a reading	2
+239	8	reading	2
+240	8	from Bartlett 's Familiar Quotations	2
+241	8	from	2
+242	8	Bartlett 's Familiar Quotations	2
+243	8	Bartlett 's	2
+244	8	Bartlett	2
+245	8	Familiar Quotations	2
+246	8	Familiar	2
+247	8	Quotations	2
+248	9	But it does n't leave you with much .	1
+249	9	it does n't leave you with much .	1
+250	9	does n't leave you with much .	1
+251	9	does n't leave you with much	1
+252	9	does n't	1
+253	9	does	2
+254	9	n't	2
+255	9	leave you with much	2
+256	9	leave you	2
+257	9	leave	1
+258	9	you	2
+259	9	with much	2
+260	10	You could hate it for the same reason .	1
+261	10	could hate it for the same reason .	1
+262	10	could hate it for the same reason	0
+263	10	could	2
+264	10	hate it for the same reason	1
+265	10	hate it	0
+266	10	hate	0
+267	10	for the same reason	2
+268	10	the same reason	2
+269	10	same reason	2
+270	10	same	2
+271	10	reason	2
+272	11	There 's little to recommend Snow Dogs , unless one considers cliched dialogue and perverse escapism a source of high hilarity .	1
+273	11	There	2
+274	11	's little to recommend Snow Dogs , unless one considers cliched dialogue and perverse escapism a source of high hilarity .	1
+275	11	's little to recommend Snow Dogs , unless one considers cliched dialogue and perverse escapism a source of high hilarity	1
+276	11	's little to recommend Snow Dogs ,	1
+277	11	's little to recommend Snow Dogs	1
+278	11	little to recommend Snow Dogs	2
+279	11	little	2
+280	11	to recommend Snow Dogs	2
+281	11	recommend Snow Dogs	4
+282	11	recommend	3
+283	11	Snow Dogs	2
+284	11	Snow	2
+285	11	Dogs	2
+286	11	unless one considers cliched dialogue and perverse escapism a source of high hilarity	1
+287	11	unless	2
+288	11	one considers cliched dialogue and perverse escapism a source of high hilarity	2
+289	11	considers cliched dialogue and perverse escapism a source of high hilarity	2
+290	11	considers	2
+291	11	cliched dialogue and perverse escapism a source of high hilarity	1
+292	11	cliched dialogue and perverse escapism	1
+293	11	cliched dialogue and	1
+294	11	cliched dialogue	1
+295	11	cliched	1
+296	11	dialogue	2
+297	11	perverse escapism	2
+298	11	perverse	1
+299	11	escapism	2
+300	11	a source of high hilarity	3
+301	11	a source	2
+302	11	source	2
+303	11	of high hilarity	3
+304	11	high hilarity	4
+305	11	high	3
+306	11	hilarity	3
+307	12	Kung Pow is Oedekerk 's realization of his childhood dream to be in a martial-arts flick , and proves that sometimes the dreams of youth should remain just that .	1
+308	12	Kung Pow	2
+309	12	Kung	2
+310	12	Pow	3
+311	12	is Oedekerk 's realization of his childhood dream to be in a martial-arts flick , and proves that sometimes the dreams of youth should remain just that .	2
+312	12	is Oedekerk 's realization of his childhood dream to be in a martial-arts flick , and proves that sometimes the dreams of youth should remain just that	0
+313	12	is Oedekerk 's realization of his childhood dream to be in a martial-arts flick , and	2
+314	12	is Oedekerk 's realization of his childhood dream to be in a martial-arts flick ,	2
+315	12	is Oedekerk 's realization of his childhood dream to be in a martial-arts flick	2
+316	12	Oedekerk 's realization of his childhood dream to be in a martial-arts flick	2
+317	12	Oedekerk 's realization of his childhood dream	2
+318	12	Oedekerk 's realization	2
+319	12	Oedekerk 's	2
+320	12	Oedekerk	2
+321	12	realization	2
+322	12	of his childhood dream	2
+323	12	his childhood dream	2
+324	12	his	2
+325	12	childhood dream	2
+326	12	childhood	2
+327	12	dream	3
+328	12	to be in a martial-arts flick	2
+329	12	be in a martial-arts flick	2
+330	12	be	2
+331	12	in a martial-arts flick	2
+332	12	a martial-arts flick	2
+333	12	martial-arts flick	2
+334	12	martial-arts	2
+335	12	flick	2
+336	12	proves that sometimes the dreams of youth should remain just that	1
+337	12	proves	2
+338	12	that sometimes the dreams of youth should remain just that	1
+339	12	sometimes the dreams of youth should remain just that	1
+340	12	sometimes	2
+341	12	the dreams of youth should remain just that	2
+342	12	the dreams of youth	3
+343	12	the dreams	2
+344	12	dreams	2
+345	12	of youth	2
+346	12	youth	2
+347	12	should remain just that	2
+348	12	should	2
+349	12	remain just that	2
+350	12	remain	2
+351	12	just that	2
+352	12	just	2
+353	13	The performances are an absolute joy .	4
+354	13	The performances	2
+355	13	performances	2
+356	13	are an absolute joy .	4
+357	13	are an absolute joy	3
+358	13	are	2
+359	13	an absolute joy	4
+360	13	an	2
+361	13	absolute joy	3
+362	13	absolute	2
+363	13	joy	4
+364	14	Fresnadillo has something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense .	3
+365	14	Fresnadillo	2
+366	14	has something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense .	3
+367	14	has something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense	3
+368	14	has	2
+369	14	something serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense	3
+370	14	something	2
+371	14	serious to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense	2
+372	14	serious	2
+373	14	to say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense	3
+374	14	say about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense	2
+375	14	say	2
+376	14	about the ways in which extravagant chance can distort our perspective and throw us off the path of good sense	2
+377	14	about	2
+378	14	the ways in which extravagant chance can distort our perspective and throw us off the path of good sense	1
+379	14	the ways	2
+380	14	ways	2
+381	14	in which extravagant chance can distort our perspective and throw us off the path of good sense	2
+382	14	in which	2
+383	14	extravagant chance can distort our perspective and throw us off the path of good sense	2
+384	14	extravagant chance	2
+385	14	extravagant	4
+386	14	chance	2
+387	14	can distort our perspective and throw us off the path of good sense	2
+388	14	can	2
+389	14	distort our perspective and throw us off the path of good sense	2
+390	14	distort our perspective and	2
+391	14	distort our perspective	2
+392	14	distort	2
+393	14	our perspective	2
+394	14	our	2
+395	14	perspective	2
+396	14	throw us off the path of good sense	2
+397	14	throw us	2
+398	14	throw	2
+399	14	us	3
+400	14	off the path of good sense	1
+401	14	off	1
+402	14	the path of good sense	2
+403	14	the path	2
+404	14	path	2
+405	14	of good sense	3
+406	14	good sense	3
+407	14	sense	2
+408	15	I still like Moonlight Mile , better judgment be damned .	3
+409	15	still like Moonlight Mile , better judgment be damned .	3
+410	15	still	2
+411	15	like Moonlight Mile , better judgment be damned .	2
+412	15	like Moonlight Mile , better judgment be damned	2
+413	15	Moonlight Mile , better judgment be damned	2
+414	15	Moonlight Mile , better judgment	2
+415	15	Moonlight	2
+416	15	Mile , better judgment	2
+417	15	Mile	2
+418	15	, better judgment	2
+419	15	better judgment	2
+420	15	better	4
+421	15	judgment	2
+422	15	be damned	2
+423	15	damned	1
+424	16	A welcome relief from baseball movies that try too hard to be mythic , this one is a sweet and modest and ultimately winning story .	3
+425	16	A welcome relief from baseball movies that try too hard to be mythic	3
+426	16	A welcome relief	3
+427	16	welcome relief	3
+428	16	welcome	2
+429	16	relief	2
+430	16	from baseball movies that try too hard to be mythic	1
+431	16	baseball movies that try too hard to be mythic	0
+432	16	baseball movies	2
+433	16	baseball	2
+434	16	movies	2
+435	16	that try too hard to be mythic	1
+436	16	try too hard to be mythic	1
+437	16	try	2
+438	16	too hard to be mythic	1
+439	16	too	2
+440	16	hard to be mythic	1
+441	16	to be mythic	2
+442	16	be mythic	2
+443	16	mythic	2
+444	16	, this one is a sweet and modest and ultimately winning story .	3
+445	16	this one is a sweet and modest and ultimately winning story .	4
+446	16	is a sweet and modest and ultimately winning story .	4
+447	16	is a sweet and modest and ultimately winning story	3
+448	16	a sweet and modest and ultimately winning story	3
+449	16	a sweet and modest and	3
+450	16	a sweet and modest	4
+451	16	sweet and modest	3
+452	16	sweet and	3
+453	16	sweet	4
+454	16	modest	3
+455	16	ultimately winning story	4
+456	16	ultimately	2
+457	16	winning story	3
+458	16	winning	3
+459	17	a bilingual charmer , just like the woman who inspired it	3
+460	17	a bilingual charmer ,	3
+461	17	a bilingual charmer	3
+462	17	bilingual charmer	3
+463	17	bilingual	2
+464	17	charmer	3
+465	17	just like the woman who inspired it	2
+466	17	like the woman who inspired it	2
+467	17	the woman who inspired it	2
+468	17	the woman	2
+469	17	woman	2
+470	17	who inspired it	2
+471	17	who	2
+472	17	inspired it	2
+473	17	inspired	3
+474	18	Like a less dizzily gorgeous companion to Mr. Wong 's In the Mood for Love -- very much a Hong Kong movie despite its mainland setting .	2
+475	18	Like a less dizzily gorgeous companion to Mr.	3
+476	18	a less dizzily gorgeous companion to Mr.	2
+477	18	a less dizzily gorgeous companion	2
+478	18	less dizzily gorgeous companion	2
+479	18	less dizzily gorgeous	2
+480	18	less	2
+481	18	dizzily gorgeous	4
+482	18	dizzily	2
+483	18	gorgeous	3
+484	18	companion	3
+485	18	to Mr.	2
+486	18	Mr.	2
+487	18	Wong 's In the Mood for Love -- very much a Hong Kong movie despite its mainland setting .	2
+488	18	Wong	2
+489	18	's In the Mood for Love -- very much a Hong Kong movie despite its mainland setting .	2
+490	18	's In the Mood for Love -- very much a Hong Kong movie despite its mainland setting	2
+491	18	's In the Mood for Love -- very much a Hong Kong movie	2
+492	18	In the Mood for Love -- very much a Hong Kong movie	3
+493	18	the Mood for Love -- very much a Hong Kong movie	2
+494	18	the Mood	3
+495	18	Mood	2
+496	18	for Love -- very much a Hong Kong movie	2
+497	18	Love -- very much a Hong Kong movie	3
+498	18	Love -- very much	4
+499	18	Love --	3
+500	18	Love	4
+501	18	--	2
+502	18	very much	2
+503	18	very	2
+504	18	a Hong Kong movie	2
+505	18	Hong Kong movie	2
+506	18	Hong	2
+507	18	Kong movie	2
+508	18	Kong	2
+509	18	movie	2
+510	18	despite its mainland setting	2
+511	18	despite	2
+512	18	its mainland setting	3
+513	18	its	2
+514	18	mainland setting	2
+515	18	mainland	2
+516	18	setting	2
+517	19	As inept as big-screen remakes of The Avengers and The Wild Wild West .	1
+518	19	As inept as big-screen remakes of The Avengers and The Wild Wild West	2
+519	19	As inept	1
+520	19	As	2
+521	19	inept	1
+522	19	as big-screen remakes of The Avengers and The Wild Wild West	1
+523	19	big-screen remakes of The Avengers and The Wild Wild West	2
+524	19	big-screen remakes	2
+525	19	big-screen	2
+526	19	remakes	2
+527	19	of The Avengers and The Wild Wild West	2
+528	19	The Avengers and The Wild Wild West	2
+529	19	The Avengers and	2
+530	19	The Avengers	2
+531	19	Avengers	2
+532	19	The Wild Wild West	3
